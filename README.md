@@ -1,13 +1,5 @@
 # React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-
----
-
----
-
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
-
 ### Table of Contents
 
 | No. | Questions                                                                                                                                                                                                                        |
